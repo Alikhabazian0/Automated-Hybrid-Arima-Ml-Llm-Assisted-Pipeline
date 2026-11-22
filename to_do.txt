@@ -1,6 +1,5 @@
 Remaining:
-4. Selectors: validation scores, statistical rules, and the LLM judge.
-
+- none
 
 alternatives:
 1. RBF-SVR: alternative nonlinear model, added later.
