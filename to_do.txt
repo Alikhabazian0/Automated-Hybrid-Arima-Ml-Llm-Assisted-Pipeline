@@ -1,0 +1,10 @@
+Remaining:
+1. Rolling validation and metrics: collect genuine forecast errors and compare models.
+2. Hybrid models: ARIMA → ML and ML → ARIMA using chronological error targets.
+3. Parameter search: bounded ARIMA grid and ML tuning.
+4. Selectors: validation scores, statistical rules, and the LLM judge.
+
+
+alternatives:
+1. RBF-SVR: alternative nonlinear model, added later.
+2. TCN: optional deep-learning comparison.
