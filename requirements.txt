@@ -3,3 +3,5 @@ Numpy
 pandas
 matplotlib
 scikit-learn>=1.8,<2
+statsmodels>=0.15,<0.16
+xgboost>=3.1,<4
