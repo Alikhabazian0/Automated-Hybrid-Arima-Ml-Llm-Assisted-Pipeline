@@ -2,3 +2,4 @@ python == 3.10.0 +
 Numpy
 pandas
 matplotlib
+scikit-learn>=1.8,<2
