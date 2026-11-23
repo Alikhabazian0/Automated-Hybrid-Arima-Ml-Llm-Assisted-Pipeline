@@ -141,9 +141,9 @@ The test evaluation inherits the development window, metric, and refit policy. I
 The primary selection metrics are
 
 $$
-\operatorname{RMSE}=\sqrt{\frac{1}{N}\sum_{t=1}^{N}(y_t-\widehat{y}_t)^2},
+\mathrm{RMSE}=\sqrt{\frac{1}{N}\sum_{t=1}^{N}(y_t-\widehat{y}_t)^2},
 \qquad
-\operatorname{MAE}=\frac{1}{N}\sum_{t=1}^{N}|y_t-\widehat{y}_t|.
+\mathrm{MAE}=\frac{1}{N}\sum_{t=1}^{N}|y_t-\widehat{y}_t|.
 $$
 
 Additional scores include mean error, MASE, RMSSE, and optional directional accuracy. MASE and RMSSE use first differences of a preceding training reference; undefined scales are reported as unavailable.
